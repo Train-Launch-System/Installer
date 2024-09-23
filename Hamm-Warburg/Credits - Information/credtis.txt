@@ -1,0 +1,15 @@
+# SOFTWARE-LIZENZVERTRAG
+
+BITTE LESEN SIE DIESEN LIZENZVERTRAG SORGFÄLTIG DURCH, BEVOR SIE DIE SOFTWARE INSTALLIEREN ODER VERWENDEN.
+
+1. **LIZENZGEWÄHRUNG**: Der Lizenzgeber gewährt Ihnen hiermit eine beschränkte, nicht exklusive, nicht übertragbare Lizenz zur Installation und Nutzung einer Kopie der Software auf einem einzelnen Computer.
+
+2. **EIGENTUMSRECHTE**: Die Software ist urheberrechtlich geschützt und Eigentum des Lizenzgebers. Ihre Lizenz berechtigt Sie nicht zum Verkauf, zur Weiterverbreitung oder zur Erstellung abgeleiteter Werke der Software.
+
+3. **EINSCHRÄNKUNGEN**: Sie dürfen die Software nicht dekompilieren, disassemblieren oder auf andere Weise versuchen, ihren Quellcode zu ermitteln, es sei denn, dies ist ausdrücklich gesetzlich erlaubt.
+
+4. **KEINE GARANTIEN**: Die Software wird "wie besehen" bereitgestellt, und der Lizenzgeber lehnt ausdrücklich jegliche Garantien ab, ob ausdrücklich oder stillschweigend, einschließlich, aber nicht beschränkt auf die impliziten Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung von Rechten Dritter.
+
+5. **HAFTUNGSBESCHRÄNKUNG**: Unter keinen Umständen haftet der Lizenzgeber für Schäden, die sich aus der Verwendung der Software ergeben, einschließlich, aber nicht beschränkt auf direkte, indirekte, zufällige oder Folgeschäden.
+
+Durch die Installation und Nutzung der Software erkennen Sie an, dass Sie diesen Vertrag gelesen haben, ihn verstehen und alle seine Bedingungen akzeptieren.
